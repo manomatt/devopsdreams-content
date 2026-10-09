@@ -48,6 +48,12 @@ def article_markdown(post: dict) -> str:
     for image in soup.find_all('img'):
         if not image.get('alt', '').strip():
             image['alt'] = 'Article image; see surrounding explanation'
+    for heading in soup.select('h2[id],h3[id]'):
+        paragraph=soup.new_tag('p')
+        link=soup.new_tag('a',href=post['url']+'#'+heading['id'])
+        link.string='Section link'
+        paragraph.append(link)
+        heading.insert_after(paragraph)
     def language(el):
         code = el.find('code')
         classes = (code or el).get('class', [])
