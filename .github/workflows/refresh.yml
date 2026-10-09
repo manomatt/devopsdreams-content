@@ -1,0 +1,30 @@
+name: Refresh published guides
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: published-content-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python tools/export_agent_content.py --out .
+      - name: Commit changed public exports
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add articles catalog.json llms.txt README.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh published DevOpsDreams guides'
+            git push
+          fi

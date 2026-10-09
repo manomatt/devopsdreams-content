@@ -1,0 +1,894 @@
+{
+  "source": "https://devopsdreams.blogspot.com",
+  "articles": [
+    {
+      "id": "1517886420675257133",
+      "title": "A Highly Available Three-Tier Application on AWS: Multi-Region Design with Aurora DSQL",
+      "url": "https://devopsdreams.blogspot.com/2026/10/a-highly-available-three-tier.html",
+      "published": "2026-10-08T16:00:00-07:00",
+      "updated": "2026-10-08T16:00:00-07:00",
+      "labels": [
+        "architecture",
+        "aurora-dsql",
+        "aws",
+        "ecs",
+        "fargate",
+        "high-availability",
+        "multi-region",
+        "platform-engineering",
+        "sre"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/1517886420675257133.md",
+      "markdown_path": "articles/1517886420675257133.md",
+      "sha256": "8f582db35077a739075fb7ee203d16be57b4206b6a39848f571b32fbc187a9e2"
+    },
+    {
+      "id": "1854296656775198934",
+      "title": "Kubernetes 1.37 Garhwal: What Matters in 5 Minutes",
+      "url": "https://devopsdreams.blogspot.com/2026/10/kubernetes-137-garhwal-what-matters-in.html",
+      "published": "2026-10-05T03:02:58-07:00",
+      "updated": "2026-10-08T19:00:33-07:00",
+      "labels": [
+        "autoscaling",
+        "eks",
+        "kubernetes",
+        "kubernetes-1.37",
+        "platform-engineering",
+        "security",
+        "sre"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/1854296656775198934.md",
+      "markdown_path": "articles/1854296656775198934.md",
+      "sha256": "3c1e4edf06237b916719397a6c0a55ba2f1f2572861e3280e51a3cf9c628787c"
+    },
+    {
+      "id": "5333154497415044751",
+      "title": "Applying SRE Error Budgets to Services Running on EKS: SLIs, Burn Rates, and Release Decisions",
+      "url": "https://devopsdreams.blogspot.com/2026/03/applying-sre-error-budgets-to-services_01439742985.html",
+      "published": "2026-10-04T06:03:37-07:00",
+      "updated": "2026-10-04T06:03:37-07:00",
+      "labels": [
+        "aws",
+        "DevOps",
+        "eks",
+        "EKS",
+        "observability",
+        "SRE"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/5333154497415044751.md",
+      "markdown_path": "articles/5333154497415044751.md",
+      "sha256": "41eddf5fe7a3c0bd37d18c11744df327cb458c7f540736bf37fd04568ebc93c7"
+    },
+    {
+      "id": "4477011843371350771",
+      "title": "Incident Response Playbooks for Kubernetes and EKS: Evidence, Containment, and Recovery",
+      "url": "https://devopsdreams.blogspot.com/2026/03/incident-response-playbooks-for_01832141893.html",
+      "published": "2026-10-04T06:02:49-07:00",
+      "updated": "2026-10-04T06:02:49-07:00",
+      "labels": [
+        "devops",
+        "kubernetes",
+        "sre"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/4477011843371350771.md",
+      "markdown_path": "articles/4477011843371350771.md",
+      "sha256": "8265e7623fcb0603a5ed22ad40ac8b46705e6f97c32f837cc3ec3b1fe9de5bbf"
+    },
+    {
+      "id": "7278216743243491204",
+      "title": "Kubernetes In-Place Pod Resource Updates And Vertical Pod Resize",
+      "url": "https://devopsdreams.blogspot.com/2026/08/kubernetes-in-place-pod-resource.html",
+      "published": "2026-08-16T04:07:21-07:00",
+      "updated": "2026-08-16T04:09:45-07:00",
+      "labels": [
+        "autoscaling",
+        "devops",
+        "kubernetes",
+        "resource-management",
+        "sre",
+        "vertical-scaling",
+        "vpa"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/7278216743243491204.md",
+      "markdown_path": "articles/7278216743243491204.md",
+      "sha256": "d2c1e69c2001b67ff098b458f40b7c8f690be7cbafbdc0c5930bbbe79b72e359"
+    },
+    {
+      "id": "4023529468306723341",
+      "title": "Kubernetes 1.36 on Amazon EKS: The Upgrade Changes That Actually Matter",
+      "url": "https://devopsdreams.blogspot.com/2026/08/kubernetes-136-on-amazon-eks-upgrade.html",
+      "published": "2026-08-16T03:32:19-07:00",
+      "updated": "2026-08-16T03:32:19-07:00",
+      "labels": [
+        "amazon-eks",
+        "aws",
+        "devops",
+        "dra",
+        "kubernetes",
+        "security",
+        "upgrades"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/4023529468306723341.md",
+      "markdown_path": "articles/4023529468306723341.md",
+      "sha256": "77c6a63dffba7dc5dacefb5b50d7f9b89f717c92dee57485454375b960aecc80"
+    },
+    {
+      "id": "1611531635578396942",
+      "title": "Progressive Delivery with Canary and Blue-Green on Kubernetes: Argo Rollouts, Flagger, and Gateway API",
+      "url": "https://devopsdreams.blogspot.com/2026/03/progressive-delivery-with-canary-and_01578260684.html",
+      "published": "2026-06-21T14:15:50-07:00",
+      "updated": "2026-06-21T14:15:50-07:00",
+      "labels": [
+        "argo-rollouts",
+        "blue-green",
+        "canary",
+        "devops",
+        "kubernetes",
+        "progressive-delivery",
+        "sre"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/1611531635578396942.md",
+      "markdown_path": "articles/1611531635578396942.md",
+      "sha256": "ba311b1ba28a6958100e4987a86a123279406d6defdc5f2d3c8b3998f55ebe69"
+    },
+    {
+      "id": "2568727342055675963",
+      "title": "Designing Terraform Modules for Platform Teams: A Deep Dive",
+      "url": "https://devopsdreams.blogspot.com/2026/03/designing-terraform-modules-for.html",
+      "published": "2026-06-14T13:14:24-07:00",
+      "updated": "2026-10-04T06:19:06-07:00",
+      "labels": [
+        "devops",
+        "iac",
+        "platform-engineering",
+        "terraform",
+        "terraform-modules"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2568727342055675963.md",
+      "markdown_path": "articles/2568727342055675963.md",
+      "sha256": "5a43b9f46f5e726e10d685bff430ef99811bd01945ffdcba9f21a1e8ea1e60fd"
+    },
+    {
+      "id": "2899207518738205989",
+      "title": "Terraform State Management, Locking, and Backups: A Production Deep Dive",
+      "url": "https://devopsdreams.blogspot.com/2026/03/terraform-state-management-locking-and_01824225752.html",
+      "published": "2026-06-14T13:12:36-07:00",
+      "updated": "2026-06-14T13:18:54-07:00",
+      "labels": [
+        "aws",
+        "backend",
+        "devops",
+        "iac",
+        "terraform",
+        "terraform-state"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2899207518738205989.md",
+      "markdown_path": "articles/2899207518738205989.md",
+      "sha256": "84e2f214056024c5956d86a03821330f157e4915213c6c82a81d5c0635af3eb0"
+    },
+    {
+      "id": "4234754207766000726",
+      "title": "Operators vs Helm: What Platform Teams Should Use When",
+      "url": "https://devopsdreams.blogspot.com/2026/03/operators-vs-helm-what-platform-teams_01661947393.html",
+      "published": "2026-06-13T07:45:44-07:00",
+      "updated": "2026-06-13T07:45:44-07:00",
+      "labels": [
+        "devops",
+        "helm",
+        "kubernetes",
+        "operators",
+        "platform-engineering",
+        "reconciliation"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/4234754207766000726.md",
+      "markdown_path": "articles/4234754207766000726.md",
+      "sha256": "a72cad87bef23f035efbf21fda274d1d409e7c8468b15014a1a459f6f2a82b9e"
+    },
+    {
+      "id": "6608235600524980024",
+      "title": "Terraform CI/CD Pipelines with GitHub Actions: A Production-Grade Deep Dive",
+      "url": "https://devopsdreams.blogspot.com/2026/03/terraform-cicd-pipelines-with-github_0324075875.html",
+      "published": "2026-06-09T01:05:39-07:00",
+      "updated": "2026-06-09T01:05:39-07:00",
+      "labels": [
+        "devops",
+        "github-actions",
+        "iac",
+        "terraform",
+        "terraform-cicd",
+        "workflow-automation"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/6608235600524980024.md",
+      "markdown_path": "articles/6608235600524980024.md",
+      "sha256": "c245bd039a2354e6306e3a24a11f186f4e4da0e1d4d626ad7a74704da1a07863"
+    },
+    {
+      "id": "8285001295994941078",
+      "title": "Environment Promotion Strategies for GitOps Pipelines: Branches, Paths, Tags, and Digests",
+      "url": "https://devopsdreams.blogspot.com/2026/03/environment-promotion-strategies-for_0899760018.html",
+      "published": "2026-06-01T06:34:00-07:00",
+      "updated": "2026-06-01T06:34:00-07:00",
+      "labels": [
+        "aws",
+        "devops",
+        "DevOps",
+        "eks",
+        "gitops",
+        "GitOps",
+        "kubernetes",
+        "observability",
+        "sre",
+        "SRE"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/8285001295994941078.md",
+      "markdown_path": "articles/8285001295994941078.md",
+      "sha256": "d6e429ed3f7dcf18bfb56dcabacbd533dfe93432218f04df573433fb659b43fc"
+    },
+    {
+      "id": "8576435052228944335",
+      "title": "Multi-Tenant GitOps with Argo CD: Isolation Patterns That Survive Production",
+      "url": "https://devopsdreams.blogspot.com/2026/03/multi-tenant-gitops-with-argo-cd-best.html",
+      "published": "2026-06-01T06:10:31-07:00",
+      "updated": "2026-06-01T06:10:31-07:00",
+      "labels": [
+        "ArgoCD",
+        "GitOps",
+        "Kubernetes"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/8576435052228944335.md",
+      "markdown_path": "articles/8576435052228944335.md",
+      "sha256": "92fe40a2908b3758811d3bfc8989f8336b1a1b23a2a1688a1aa3287bc18d8ac5"
+    },
+    {
+      "id": "2860351746859817358",
+      "title": "Bootstrapping Kubernetes Clusters with Terraform and Argo CD: A Durable Two-Layer Approach",
+      "url": "https://devopsdreams.blogspot.com/2026/03/bootstrapping-kubernetes-clusters-with_0495053126.html",
+      "published": "2026-05-15T09:24:01-07:00",
+      "updated": "2026-05-15T09:24:01-07:00",
+      "labels": null,
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2860351746859817358.md",
+      "markdown_path": "articles/2860351746859817358.md",
+      "sha256": "584ca50e6e751d69773ac3f084c8506126f7b4b9d000122e00d978a48cd6f804"
+    },
+    {
+      "id": "3953734878512147771",
+      "title": "Progressive Delivery on Kubernetes with Argo CD and Argo Rollouts",
+      "url": "https://devopsdreams.blogspot.com/2026/03/progressive-delivery-on-kubernetes-with_0549401167.html",
+      "published": "2026-05-15T09:16:22-07:00",
+      "updated": "2026-10-04T10:24:22-07:00",
+      "labels": null,
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/3953734878512147771.md",
+      "markdown_path": "articles/3953734878512147771.md",
+      "sha256": "778cbbb014c199ad867acf60e4019a8ec86e5fff4cb63d8893686569274a4d6d"
+    },
+    {
+      "id": "2871281165829219057",
+      "title": "Autoscaling EKS Clusters with Karpenter: A Policy-First Model That Holds in Production",
+      "url": "https://devopsdreams.blogspot.com/2026/03/autoscaling-eks-clusters-with-karpenter_036901268.html",
+      "published": "2026-05-15T09:12:15-07:00",
+      "updated": "2026-05-15T09:12:15-07:00",
+      "labels": null,
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2871281165829219057.md",
+      "markdown_path": "articles/2871281165829219057.md",
+      "sha256": "014e3d4c0aefc9d9fa32dab69d3de8f24a9532758a4eb214f79844f5c99c5838"
+    },
+    {
+      "id": "5509779294004595128",
+      "title": "Kubernetes Gateway API vs Ingress: A Practical Production Model for Platform Teams",
+      "url": "https://devopsdreams.blogspot.com/2026/03/kubernetes-gateway-api-vs-ingress_0808887577.html",
+      "published": "2026-04-20T00:48:00-07:00",
+      "updated": "2026-04-20T00:48:57-07:00",
+      "labels": null,
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/5509779294004595128.md",
+      "markdown_path": "articles/5509779294004595128.md",
+      "sha256": "9b3e58c368aa35d5e87af3eae5cb3d82ca62e8bc7703f528de40ef39814b595c"
+    },
+    {
+      "id": "5605498763035020082",
+      "title": "Improving Kubernetes Cost Visibility with OpenCost",
+      "url": "https://devopsdreams.blogspot.com/2026/03/improving-kubernetes-cost-visibility.html",
+      "published": "2026-04-07T14:53:00-07:00",
+      "updated": "2026-10-04T10:21:58-07:00",
+      "labels": null,
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/5605498763035020082.md",
+      "markdown_path": "articles/5605498763035020082.md",
+      "sha256": "3ed7bc1ae55fdc451409e71d79517bb5bae7dac946082117677275e8539d7a5c"
+    },
+    {
+      "id": "2249908711843913910",
+      "title": "Building an Internal Developer Platform on EKS",
+      "url": "https://devopsdreams.blogspot.com/2026/03/building-internal-developer-platform-on_01252328738.html",
+      "published": "2026-04-05T13:18:00-07:00",
+      "updated": "2026-04-05T13:18:27-07:00",
+      "labels": null,
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2249908711843913910.md",
+      "markdown_path": "articles/2249908711843913910.md",
+      "sha256": "e0378fe0bb297fa8b31842c1f682db5efa0ffdf09e95e2836e2452d4c17a6785"
+    },
+    {
+      "id": "7596550084395737858",
+      "title": "Monorepo vs Multirepo for GitOps Manifests: A Practical Guide for Flux and Argo CD",
+      "url": "https://devopsdreams.blogspot.com/2026/03/monorepo-vs-multirepo-for-gitops_0541392146.html",
+      "published": "2026-03-30T05:34:00-07:00",
+      "updated": "2026-03-30T05:34:47-07:00",
+      "labels": null,
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/7596550084395737858.md",
+      "markdown_path": "articles/7596550084395737858.md",
+      "sha256": "55eafbe86225b04c42eb8911c404de3802fd64bde5275bf6b65215eefe9c3126"
+    },
+    {
+      "id": "607884542876468850",
+      "title": "Argo CD Auto-Sync and Health Checks: An Operator's Guide to Safe GitOps Reconciliation",
+      "url": "https://devopsdreams.blogspot.com/2026/03/deep-dive-into-argo-cd-auto-sync-and.html",
+      "published": "2026-03-30T05:25:00-07:00",
+      "updated": "2026-03-30T05:25:03-07:00",
+      "labels": null,
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/607884542876468850.md",
+      "markdown_path": "articles/607884542876468850.md",
+      "sha256": "c4fef37fbfd14ebe69a673265d8077d04699943e9b51c336411f8df5b2ca30ac"
+    },
+    {
+      "id": "2733077091250635195",
+      "title": "Platform Engineering on AWS with EKS Blueprints and GitOps",
+      "url": "https://devopsdreams.blogspot.com/2026/03/platform-engineering-on-aws-with-eks.html",
+      "published": "2026-03-30T05:16:00-07:00",
+      "updated": "2026-03-30T05:16:54-07:00",
+      "labels": [
+        "Architecture",
+        "ArgoCD",
+        "aws",
+        "eks",
+        "gitops"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2733077091250635195.md",
+      "markdown_path": "articles/2733077091250635195.md",
+      "sha256": "0237b6e87dddc3fe9e36018abcf441236f0c42c41e93dded9a1eaf037b608c4d"
+    },
+    {
+      "id": "1015811994101726431",
+      "title": "AWS VPC Lattice: The Missing Service Layer Between VPC Connectivity and Application Routing",
+      "url": "https://devopsdreams.blogspot.com/2026/03/aws-vpc-lattice-missing-service-layer.html",
+      "published": "2026-03-29T10:33:00-07:00",
+      "updated": "2026-03-29T10:35:06-07:00",
+      "labels": [
+        "aws",
+        "devops",
+        "Networking",
+        "vpc lattice"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/1015811994101726431.md",
+      "markdown_path": "articles/1015811994101726431.md",
+      "sha256": "ad27dc7c0076d23fb679d2bca400b090771da775147aa0977a4bbe029f5b0404"
+    },
+    {
+      "id": "826535620348174322",
+      "title": "Gateway API vs Ingress: Why Modern Kubernetes Traffic Management Uses Attachment, Not Annotations",
+      "url": "https://devopsdreams.blogspot.com/2026/03/kubernetes-gateway-api-vs-ingress_0191819753.html",
+      "published": "2026-03-16T10:00:00-07:00",
+      "updated": "2026-03-29T02:34:42-07:00",
+      "labels": [
+        "devops",
+        "gateway-api",
+        "ingress",
+        "kubernetes",
+        "Networking",
+        "traffic-management"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/826535620348174322.md",
+      "markdown_path": "articles/826535620348174322.md",
+      "sha256": "1e4f8244d386765685d1cd71a4af5c7f6dd09f238575aa4e0502fb68d38cd5dd"
+    },
+    {
+      "id": "9215514641697070146",
+      "title": "A Modern Terraform Reference Architecture for Amazon EKS",
+      "url": "https://devopsdreams.blogspot.com/2026/03/a-modern-terraform-reference_0947887689.html",
+      "published": "2026-03-16T10:00:00-07:00",
+      "updated": "2026-03-20T01:45:15-07:00",
+      "labels": [
+        "aws",
+        "devops",
+        "eks",
+        "karpenter",
+        "platform-engineering",
+        "terraform"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/9215514641697070146.md",
+      "markdown_path": "articles/9215514641697070146.md",
+      "sha256": "de38bf6f22974c815dd4ab9bdaa93a4df0acc59b1832c68be0428f779f31d17b"
+    },
+    {
+      "id": "5195088956521477401",
+      "title": "Terraform Security Best Practices for AWS: IAM Is Only One Layer",
+      "url": "https://devopsdreams.blogspot.com/2026/03/terraform-security-best-practices-for_0309082699.html",
+      "published": "2026-03-16T02:36:00-07:00",
+      "updated": "2026-03-20T01:28:50-07:00",
+      "labels": [
+        "aws",
+        "best-practices",
+        "devsecops",
+        "iam",
+        "security",
+        "terraform"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/5195088956521477401.md",
+      "markdown_path": "articles/5195088956521477401.md",
+      "sha256": "e53d749977589955256accfa9ad9032b08dec05fd551fc9171a69cf929cdf6e8"
+    },
+    {
+      "id": "8835061167853938553",
+      "title": "Progressive Delivery on Kubernetes: Canary, Blue-Green, and the Control Plane You Actually Need",
+      "url": "https://devopsdreams.blogspot.com/2026/03/progressive-delivery-with-canary-and_01751973083.html",
+      "published": "2026-03-15T03:16:00-07:00",
+      "updated": "2026-03-15T03:23:46-07:00",
+      "labels": [
+        "argo-rollouts",
+        "blue-green",
+        "canary",
+        "devops",
+        "kubernetes",
+        "progressive-delivery",
+        "sre"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/8835061167853938553.md",
+      "markdown_path": "articles/8835061167853938553.md",
+      "sha256": "5e68d525d742bfed4a9abc94296faefdfad5ebab989b03e5e9c51d68fd62680c"
+    },
+    {
+      "id": "2836711951267268511",
+      "title": "Kubernetes Multi-Tenancy with Namespaces and Network Policies: A Practical Guide for GitOps Teams",
+      "url": "https://devopsdreams.blogspot.com/2026/03/kubernetes-multi-tenancy-with_01212499564.html",
+      "published": "2026-03-15T03:12:00-07:00",
+      "updated": "2026-04-18T07:10:57-07:00",
+      "labels": null,
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2836711951267268511.md",
+      "markdown_path": "articles/2836711951267268511.md",
+      "sha256": "a270685008c0be07a9f206ecf8ed6a24fb54a1fadd8586b360387de6724ee377"
+    },
+    {
+      "id": "2666763469912292804",
+      "title": "Operators vs Helm for Platform Teams: Install with Charts, Automate with Controllers",
+      "url": "https://devopsdreams.blogspot.com/2026/03/operators-vs-helm-what-platform-teams_01569054097.html",
+      "published": "2026-03-15T03:10:00-07:00",
+      "updated": "2026-03-15T03:10:48-07:00",
+      "labels": [
+        "devops",
+        "helm",
+        "kubernetes",
+        "operators",
+        "platform-engineering"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2666763469912292804.md",
+      "markdown_path": "articles/2666763469912292804.md",
+      "sha256": "808ae676719eee2a4c78adc8e842a58145e35ee3c6ab3b6b6138bc3ec319e0d6"
+    },
+    {
+      "id": "2535562775798922906",
+      "title": "Terraform GitOps Bridge Modules for EKS: A Cleaner Way to Bootstrap Clusters and Hand Off to Argo CD",
+      "url": "https://devopsdreams.blogspot.com/2026/03/using-terraform-gitops-bridge-modules_0735566041.html",
+      "published": "2026-03-14T15:46:00-07:00",
+      "updated": "2026-03-14T15:46:27-07:00",
+      "labels": [
+        "gitops",
+        "kubernetes",
+        "terraform"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2535562775798922906.md",
+      "markdown_path": "articles/2535562775798922906.md",
+      "sha256": "57082155f8a3bf83fa5035a044c6e4b79b4e6425777fd66b8ea75db479333ee1"
+    },
+    {
+      "id": "2519534304792877879",
+      "title": "Autoscaling Amazon EKS with Karpenter: NodePools, EC2NodeClasses, and Practical Guardrails",
+      "url": "https://devopsdreams.blogspot.com/2026/03/autoscaling-eks-clusters-with-karpenter_01691597786.html",
+      "published": "2026-03-14T15:28:00-07:00",
+      "updated": "2026-03-14T15:28:46-07:00",
+      "labels": [
+        "aws",
+        "devops",
+        "eks",
+        "kubernetes"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2519534304792877879.md",
+      "markdown_path": "articles/2519534304792877879.md",
+      "sha256": "e1c669bfb04e5a262588d5c4b62edd815392e9ae7cc8abcec53939700e909e69"
+    },
+    {
+      "id": "5258022992997799348",
+      "title": "Kubernetes 1.35 Features That Matter in Production",
+      "url": "https://devopsdreams.blogspot.com/2026/03/kubernetes-135-features-that-matter-in.html",
+      "published": "2026-03-11T15:48:00-07:00",
+      "updated": "2026-03-11T16:05:30-07:00",
+      "labels": [
+        "Containers",
+        "devops",
+        "kubernetes"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/5258022992997799348.md",
+      "markdown_path": "articles/5258022992997799348.md",
+      "sha256": "549f06f53aa7ca4feb80907fd773ade114e6c3bb72cdb818a8d7d8e293d25d75"
+    },
+    {
+      "id": "1742315478500080137",
+      "title": "Backstage Software Catalog Lifecycle: Discover, Register, and Govern Your Software Assets",
+      "url": "https://devopsdreams.blogspot.com/2026/03/backstage-software-catalog-lifecycle.html",
+      "published": "2026-03-09T01:25:00-07:00",
+      "updated": "2026-03-11T17:04:22-07:00",
+      "labels": [
+        "Backstage",
+        "devops",
+        "Platform Engineering",
+        "Software Catalog"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/1742315478500080137.md",
+      "markdown_path": "articles/1742315478500080137.md",
+      "sha256": "e7ea6167e9c085ba74d7e2c63d6a30e30a8d07a7bd932cf8a5d48706f08347d7"
+    },
+    {
+      "id": "7943703258692161971",
+      "title": "Terraform and AWS Organizations: Separate Governance from Provisioning in Multi-Account AWS",
+      "url": "https://devopsdreams.blogspot.com/2026/03/managing-multi-account-aws-environments_01960120290.html",
+      "published": "2026-03-07T15:59:52-08:00",
+      "updated": "2026-03-14T02:23:48-07:00",
+      "labels": [
+        "aws",
+        "aws-organizations",
+        "cloud-engineering",
+        "devops",
+        "terraform"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/7943703258692161971.md",
+      "markdown_path": "articles/7943703258692161971.md",
+      "sha256": "b9c29f9bdbc7c7c7245d11264c88610e68ab74b01f23d0516afc48308b359929"
+    },
+    {
+      "id": "7729124101636942266",
+      "title": "Terraform Drift Detection and Remediation: A Safer Operating Model for Real Infrastructure",
+      "url": "https://devopsdreams.blogspot.com/2026/03/drift-detection-and-remediation_01775044451.html",
+      "published": "2026-03-07T15:58:43-08:00",
+      "updated": "2026-03-14T15:20:33-07:00",
+      "labels": [
+        "devops",
+        "sre",
+        "terraform"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/7729124101636942266.md",
+      "markdown_path": "articles/7729124101636942266.md",
+      "sha256": "35577f6dd0c251a4df43c4526a37663dc3fd0f37600e8cbdfe0a0a2788c5d3fa"
+    },
+    {
+      "id": "8607790405071936733",
+      "title": "Implementing Kubernetes Pod Security Standards Without Breaking Production",
+      "url": "https://devopsdreams.blogspot.com/2026/03/implementing-kubernetes-pod-security_0135281815.html",
+      "published": "2026-03-07T15:57:12-08:00",
+      "updated": "2026-03-15T02:55:43-07:00",
+      "labels": [
+        "baseline",
+        "compliance",
+        "devsecops",
+        "kubernetes",
+        "pod-security-admission",
+        "pss",
+        "restricted",
+        "security"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/8607790405071936733.md",
+      "markdown_path": "articles/8607790405071936733.md",
+      "sha256": "a1765279fdbd83fbb7ff5d29ccf2d8d6be3c724bd886fffea46071888f16bf09"
+    },
+    {
+      "id": "7498168934854313233",
+      "title": "Private Amazon EKS Clusters and Ingress Patterns: A Network Design Deep Dive",
+      "url": "https://devopsdreams.blogspot.com/2026/03/private-amazon-eks-clusters-and-ingress_01205045572.html",
+      "published": "2026-03-07T15:52:31-08:00",
+      "updated": "2026-08-16T02:53:26-07:00",
+      "labels": [
+        "aws",
+        "eks",
+        "ingress",
+        "kubernetes",
+        "networking",
+        "private-clusters",
+        "security"
+      ],
+      "author": {
+        "id": "00738911069040714205",
+        "displayName": "author",
+        "url": "https://www.blogger.com/profile/00738911069040714205",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/7498168934854313233.md",
+      "markdown_path": "articles/7498168934854313233.md",
+      "sha256": "e61e28b1b2e161f1be64a5ff533cde5ea981dfe71c68b265a30d7a60b7c5ba5c"
+    }
+  ]
+}
