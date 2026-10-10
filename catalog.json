@@ -6,7 +6,7 @@
       "title": "A Highly Available Three-Tier Application on AWS: Multi-Region Design with Aurora DSQL",
       "url": "https://devopsdreams.blogspot.com/2026/10/a-highly-available-three-tier.html",
       "published": "2026-10-08T16:00:00.000-07:00",
-      "updated": "2026-10-09T14:31:40.892-07:00",
+      "updated": "2026-10-10T07:44:57.002-07:00",
       "labels": [
         "architecture",
         "aurora-dsql",
@@ -23,14 +23,14 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/1517886420675257133.md",
       "markdown_path": "articles/1517886420675257133.md",
-      "sha256": "550604b421e2b334fd3a63485027de3aa11ef2b8f115c49f107e517748cd3e2c"
+      "sha256": "6c5d15f9d1e8b3fb5c7ec17322bce41ca731533f7c2e7957ea28cf2138480502"
     },
     {
       "id": "1854296656775198934",
       "title": "Kubernetes 1.37 Garhwal: What Matters in 5 Minutes",
       "url": "https://devopsdreams.blogspot.com/2026/10/kubernetes-137-garhwal-what-matters-in.html",
       "published": "2026-10-05T03:02:58.000-07:00",
-      "updated": "2026-10-09T14:31:43.150-07:00",
+      "updated": "2026-10-10T08:04:00.143-07:00",
       "labels": [
         "autoscaling",
         "eks",
@@ -45,7 +45,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/1854296656775198934.md",
       "markdown_path": "articles/1854296656775198934.md",
-      "sha256": "3991841c802ca3efbefee51c71026a0c534199f29c19553dbe6ace2939a13ab3"
+      "sha256": "279741ba5a3676236581dd54c4c8b1f748d309991ce899e93848eb112891c6e0"
     },
     {
       "id": "5333154497415044751",
