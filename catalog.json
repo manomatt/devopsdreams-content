@@ -325,14 +325,14 @@
       "title": "Kubernetes Gateway API vs Ingress: A Practical Production Model for Platform Teams",
       "url": "https://devopsdreams.blogspot.com/2026/03/kubernetes-gateway-api-vs-ingress_0808887577.html",
       "published": "2026-04-20T00:48:00.000-07:00",
-      "updated": "2026-10-09T14:32:13.569-07:00",
+      "updated": "2026-10-10T16:33:29.552-07:00",
       "labels": [],
       "author": {
         "displayName": "Unknown"
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/5509779294004595128.md",
       "markdown_path": "articles/5509779294004595128.md",
-      "sha256": "673269fa5e0c4a90170d4d8221eeee5586608e602d4ba9b62efb7a2c1bf218be"
+      "sha256": "8c2efe60e48d2e3e15ca57d1dfb7b372b020c58bf419a335dcfd19fb2bb89f17"
     },
     {
       "id": "5605498763035020082",
