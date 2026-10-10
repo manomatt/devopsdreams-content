@@ -52,7 +52,7 @@
       "title": "Applying SRE Error Budgets to Services Running on EKS: SLIs, Burn Rates, and Release Decisions",
       "url": "https://devopsdreams.blogspot.com/2026/03/applying-sre-error-budgets-to-services_01439742985.html",
       "published": "2026-10-04T06:03:37.000-07:00",
-      "updated": "2026-10-09T14:31:45.374-07:00",
+      "updated": "2026-10-10T08:48:38.558-07:00",
       "labels": [
         "aws",
         "DevOps",
@@ -66,14 +66,14 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/5333154497415044751.md",
       "markdown_path": "articles/5333154497415044751.md",
-      "sha256": "aff43a77346bce4cca853760a3da7dcca1e01e316e6901b34315316bcc19cd19"
+      "sha256": "549c7239d5a8fc1b3d1edbacdcdc29aac96d52344b9957c491d370d6489ff8d3"
     },
     {
       "id": "4477011843371350771",
       "title": "Incident Response Playbooks for Kubernetes and EKS: Evidence, Containment, and Recovery",
       "url": "https://devopsdreams.blogspot.com/2026/03/incident-response-playbooks-for_01832141893.html",
       "published": "2026-10-04T06:02:49.000-07:00",
-      "updated": "2026-10-09T14:31:47.611-07:00",
+      "updated": "2026-10-10T09:23:17.415-07:00",
       "labels": [
         "devops",
         "kubernetes",
@@ -84,14 +84,14 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/4477011843371350771.md",
       "markdown_path": "articles/4477011843371350771.md",
-      "sha256": "b0676a12135ee9d29199437bf98d3fcdf7365b9fdef25f4f3adb0f03f4769803"
+      "sha256": "0d0de4b095267a8936b6ff24e0cec56ea0ddcf9e5502475f022e2b5238a46c79"
     },
     {
       "id": "7278216743243491204",
       "title": "Kubernetes In-Place Pod Resource Updates And Vertical Pod Resize",
       "url": "https://devopsdreams.blogspot.com/2026/08/kubernetes-in-place-pod-resource.html",
       "published": "2026-08-16T04:07:21.000-07:00",
-      "updated": "2026-10-09T14:31:49.799-07:00",
+      "updated": "2026-10-10T10:39:40.121-07:00",
       "labels": [
         "autoscaling",
         "devops",
@@ -106,7 +106,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/7278216743243491204.md",
       "markdown_path": "articles/7278216743243491204.md",
-      "sha256": "fe8dfb54401db4bdc4b6915121404f7c341387a49263a6df57248bf325739e87"
+      "sha256": "dbabf6c70e1cc02d5f5680fe29079ea27baf1f57fd6f6e09e259bfaed7c15408"
     },
     {
       "id": "4023529468306723341",
@@ -135,7 +135,7 @@
       "title": "Progressive Delivery with Canary and Blue-Green on Kubernetes: Argo Rollouts, Flagger, and Gateway API",
       "url": "https://devopsdreams.blogspot.com/2026/03/progressive-delivery-with-canary-and_01578260684.html",
       "published": "2026-06-21T14:15:50.000-07:00",
-      "updated": "2026-10-09T14:31:53.879-07:00",
+      "updated": "2026-10-10T11:02:39.448-07:00",
       "labels": [
         "argo-rollouts",
         "blue-green",
@@ -150,7 +150,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/1611531635578396942.md",
       "markdown_path": "articles/1611531635578396942.md",
-      "sha256": "e537af99d249f3141d2ee0bc9b80c1e683e0a824fd94e13f78f203234732f723"
+      "sha256": "2dd1c10a3979548d5b5c130c53985d4ce66463448b82eacc407abfb10cd0fdcf"
     },
     {
       "id": "2568727342055675963",
@@ -177,7 +177,7 @@
       "title": "Terraform State Management, Locking, and Backups: A Production Deep Dive",
       "url": "https://devopsdreams.blogspot.com/2026/03/terraform-state-management-locking-and_01824225752.html",
       "published": "2026-06-14T13:12:36.000-07:00",
-      "updated": "2026-10-09T14:31:57.798-07:00",
+      "updated": "2026-10-10T11:27:05.798-07:00",
       "labels": [
         "aws",
         "backend",
@@ -191,7 +191,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2899207518738205989.md",
       "markdown_path": "articles/2899207518738205989.md",
-      "sha256": "10ab4338c03a33521d5c9343f1b3fc8d99f3c0dea27a4307550b153912e4610c"
+      "sha256": "078722b8ddefb3f5e6c5ac266c0f48c76379635e90620d43ca7f6a150efaa133"
     },
     {
       "id": "4234754207766000726",
@@ -240,7 +240,7 @@
       "title": "Environment Promotion Strategies for GitOps Pipelines: Branches, Paths, Tags, and Digests",
       "url": "https://devopsdreams.blogspot.com/2026/03/environment-promotion-strategies-for_0899760018.html",
       "published": "2026-06-01T06:34:00.000-07:00",
-      "updated": "2026-10-09T14:32:04.075-07:00",
+      "updated": "2026-10-10T11:48:14.038-07:00",
       "labels": [
         "aws",
         "devops",
@@ -258,14 +258,14 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/8285001295994941078.md",
       "markdown_path": "articles/8285001295994941078.md",
-      "sha256": "4e5b4bd9cc02d6f4eff88235b7b254fb7bdfd16da911027a238d7139cbd4bd63"
+      "sha256": "3c24f00e84878e7a4f1d359602b97ff168579177179501eff471bf521958863d"
     },
     {
       "id": "8576435052228944335",
       "title": "Multi-Tenant GitOps with Argo CD: Isolation Patterns That Survive Production",
       "url": "https://devopsdreams.blogspot.com/2026/03/multi-tenant-gitops-with-argo-cd-best.html",
       "published": "2026-06-01T06:10:31.000-07:00",
-      "updated": "2026-10-09T14:32:06.176-07:00",
+      "updated": "2026-10-10T12:12:26.477-07:00",
       "labels": [
         "ArgoCD",
         "GitOps",
@@ -276,21 +276,21 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/8576435052228944335.md",
       "markdown_path": "articles/8576435052228944335.md",
-      "sha256": "a39589190adbe8d46c69e099b5f9c62c7cc2f5848a7f50831b929a61999c8e07"
+      "sha256": "c42e7f8d5ef53420c74a7eead60233a487543aa672f99f81d25cf6a5acaef154"
     },
     {
       "id": "2860351746859817358",
       "title": "Bootstrapping Kubernetes Clusters with Terraform and Argo CD: A Durable Two-Layer Approach",
       "url": "https://devopsdreams.blogspot.com/2026/03/bootstrapping-kubernetes-clusters-with_0495053126.html",
       "published": "2026-05-15T09:24:01.000-07:00",
-      "updated": "2026-10-09T14:32:08.069-07:00",
+      "updated": "2026-10-10T12:21:31.110-07:00",
       "labels": [],
       "author": {
         "displayName": "Unknown"
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2860351746859817358.md",
       "markdown_path": "articles/2860351746859817358.md",
-      "sha256": "57240a92c7d103c36e0a5391aef1eeda149c438ddcf57b533fd71ac8d3935b52"
+      "sha256": "ee2b85edcef7afc80ae1fbd0b65f53afbb9584b4951a11eb8d616be2f0f14622"
     },
     {
       "id": "3953734878512147771",
