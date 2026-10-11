@@ -353,28 +353,28 @@
       "title": "Building an Internal Developer Platform on EKS",
       "url": "https://devopsdreams.blogspot.com/2026/03/building-internal-developer-platform-on_01252328738.html",
       "published": "2026-04-05T13:18:00.000-07:00",
-      "updated": "2026-10-09T14:32:17.309-07:00",
+      "updated": "2026-10-10T16:53:13.663-07:00",
       "labels": [],
       "author": {
         "displayName": "Unknown"
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2249908711843913910.md",
       "markdown_path": "articles/2249908711843913910.md",
-      "sha256": "83a8e6dccef52da80616c16d47a51f9dc64840cf4ca7117c7f6542482873aa63"
+      "sha256": "c8914d3c49da00f6f668c76440a7e324e479c25abbfff2030914b51fa1286d3f"
     },
     {
       "id": "7596550084395737858",
       "title": "Monorepo vs Multirepo for GitOps Manifests: A Practical Guide for Flux and Argo CD",
       "url": "https://devopsdreams.blogspot.com/2026/03/monorepo-vs-multirepo-for-gitops_0541392146.html",
       "published": "2026-03-30T05:34:00.000-07:00",
-      "updated": "2026-10-09T14:32:19.436-07:00",
+      "updated": "2026-10-10T17:11:06.788-07:00",
       "labels": [],
       "author": {
         "displayName": "Unknown"
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/7596550084395737858.md",
       "markdown_path": "articles/7596550084395737858.md",
-      "sha256": "7e12db6697dae2945504def825757a91a5c1eff4452f95c6aeb044605d71ba99"
+      "sha256": "2b2400d8a410f2c40abb0c1e35181dc01759ba074d5b0ba9c3e6d9b5bbbe4746"
     },
     {
       "id": "607884542876468850",
@@ -415,7 +415,7 @@
       "title": "AWS VPC Lattice: The Missing Service Layer Between VPC Connectivity and Application Routing",
       "url": "https://devopsdreams.blogspot.com/2026/03/aws-vpc-lattice-missing-service-layer.html",
       "published": "2026-03-29T10:33:00.000-07:00",
-      "updated": "2026-10-09T14:32:25.055-07:00",
+      "updated": "2026-10-10T17:35:22.870-07:00",
       "labels": [
         "aws",
         "devops",
@@ -427,7 +427,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/1015811994101726431.md",
       "markdown_path": "articles/1015811994101726431.md",
-      "sha256": "04fc54f53cc7304ae35e84e2c5df9fd7a871ca92321f76e75bdc715b095afe42"
+      "sha256": "2c58965d387f4e56f9f8915734ebedcdb2d46e3e49162fa33a8a82216972c552"
     },
     {
       "id": "826535620348174322",
@@ -519,21 +519,21 @@
       "title": "Kubernetes Multi-Tenancy with Namespaces and Network Policies: A Practical Guide for GitOps Teams",
       "url": "https://devopsdreams.blogspot.com/2026/03/kubernetes-multi-tenancy-with_01212499564.html",
       "published": "2026-03-15T03:12:00.000-07:00",
-      "updated": "2026-10-09T14:32:34.943-07:00",
+      "updated": "2026-10-10T21:38:18.342-07:00",
       "labels": [],
       "author": {
         "displayName": "Unknown"
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2836711951267268511.md",
       "markdown_path": "articles/2836711951267268511.md",
-      "sha256": "cab1736a7bf8c8e68e018d108e4abaa036cc277bb060676fc2032293426706a2"
+      "sha256": "8bb8f6fbcdf2e010c8b7e347e6b29dca4c61eac80d8a1305063d8ca1ed3e35cb"
     },
     {
       "id": "2666763469912292804",
       "title": "Operators vs Helm for Platform Teams: Install with Charts, Automate with Controllers",
       "url": "https://devopsdreams.blogspot.com/2026/03/operators-vs-helm-what-platform-teams_01569054097.html",
       "published": "2026-03-15T03:10:00.000-07:00",
-      "updated": "2026-10-09T14:32:36.840-07:00",
+      "updated": "2026-10-10T21:51:01.543-07:00",
       "labels": [
         "devops",
         "helm",
@@ -546,14 +546,14 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2666763469912292804.md",
       "markdown_path": "articles/2666763469912292804.md",
-      "sha256": "fff6ab3920913423e70b94c095ec2bcc5a738485fee6809d49d69ba358c3682c"
+      "sha256": "c1d2e5a3aad312a590feff2743180505a5d6b3e7d7e740eea32d796796c1257a"
     },
     {
       "id": "2535562775798922906",
       "title": "Terraform GitOps Bridge Modules for EKS: A Cleaner Way to Bootstrap Clusters and Hand Off to Argo CD",
       "url": "https://devopsdreams.blogspot.com/2026/03/using-terraform-gitops-bridge-modules_0735566041.html",
       "published": "2026-03-14T15:46:00.000-07:00",
-      "updated": "2026-10-09T14:32:38.916-07:00",
+      "updated": "2026-10-10T22:05:14.035-07:00",
       "labels": [
         "gitops",
         "kubernetes",
@@ -564,7 +564,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2535562775798922906.md",
       "markdown_path": "articles/2535562775798922906.md",
-      "sha256": "7d2a1158628e15479ed253e15fd787353cf065a4f9fbccc573e0450961a7defe"
+      "sha256": "1e2670a292ab0f8b5ae3fe03402dda3c1b13037e089f81b915e09486920a3111"
     },
     {
       "id": "2519534304792877879",
@@ -590,7 +590,7 @@
       "title": "Kubernetes 1.35 Features That Matter in Production",
       "url": "https://devopsdreams.blogspot.com/2026/03/kubernetes-135-features-that-matter-in.html",
       "published": "2026-03-11T15:48:00.000-07:00",
-      "updated": "2026-10-09T14:32:42.618-07:00",
+      "updated": "2026-10-10T22:18:57.794-07:00",
       "labels": [
         "Containers",
         "devops",
@@ -601,14 +601,14 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/5258022992997799348.md",
       "markdown_path": "articles/5258022992997799348.md",
-      "sha256": "3835784c59b2bae85bcf284cecd2d73064900b2f20a2499e2889810e19618a4c"
+      "sha256": "62faf81071873bf96e4d3f11a9fcbb670680a3279037ff448393e612f101dcbd"
     },
     {
       "id": "1742315478500080137",
       "title": "Backstage Software Catalog Lifecycle: Discover, Register, and Govern Your Software Assets",
       "url": "https://devopsdreams.blogspot.com/2026/03/backstage-software-catalog-lifecycle.html",
       "published": "2026-03-09T01:25:00.000-07:00",
-      "updated": "2026-10-09T14:32:44.515-07:00",
+      "updated": "2026-10-10T22:35:34.370-07:00",
       "labels": [
         "Backstage",
         "devops",
@@ -620,14 +620,14 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/1742315478500080137.md",
       "markdown_path": "articles/1742315478500080137.md",
-      "sha256": "eba20a0dcdf1c1d5a4495f9bd67453bc5143f92cd6123d0c41164896487422c7"
+      "sha256": "1d47da389853da4a97a76ce824bc6d10942249a47e0210d855c34dbebcb7bd57"
     },
     {
       "id": "7943703258692161971",
       "title": "Terraform and AWS Organizations: Separate Governance from Provisioning in Multi-Account AWS",
       "url": "https://devopsdreams.blogspot.com/2026/03/managing-multi-account-aws-environments_01960120290.html",
       "published": "2026-03-07T15:59:52.000-08:00",
-      "updated": "2026-10-09T14:32:46.343-07:00",
+      "updated": "2026-10-10T22:52:47.648-07:00",
       "labels": [
         "aws",
         "aws-organizations",
@@ -640,7 +640,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/7943703258692161971.md",
       "markdown_path": "articles/7943703258692161971.md",
-      "sha256": "3bd07d5b5d5bb18680a4e49b918024bb4c6a4f8e472ed91ec4f9e95ac6230c6b"
+      "sha256": "5babc8120c6f3af4256e56cb5373bd8e8d179082126f511f3d7ae9ef534ab104"
     },
     {
       "id": "7729124101636942266",
