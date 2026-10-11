@@ -665,7 +665,7 @@
       "title": "Implementing Kubernetes Pod Security Standards Without Breaking Production",
       "url": "https://devopsdreams.blogspot.com/2026/03/implementing-kubernetes-pod-security_0135281815.html",
       "published": "2026-03-07T15:57:12.000-08:00",
-      "updated": "2026-10-09T14:32:50.253-07:00",
+      "updated": "2026-10-11T03:06:49.748-07:00",
       "labels": [
         "baseline",
         "compliance",
@@ -681,7 +681,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/8607790405071936733.md",
       "markdown_path": "articles/8607790405071936733.md",
-      "sha256": "54839233cda9894aa1b7ca59ff3be7345978b28ffb97add47cc6dff5394c01a5"
+      "sha256": "febf472fbef88ddce100490b6b937f70d789c9cfbfc1d3cb23d232525557f93f"
     },
     {
       "id": "7498168934854313233",
