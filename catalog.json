@@ -135,7 +135,7 @@
       "title": "Progressive Delivery with Canary and Blue-Green on Kubernetes: Argo Rollouts, Flagger, and Gateway API",
       "url": "https://devopsdreams.blogspot.com/2026/03/progressive-delivery-with-canary-and_01578260684.html",
       "published": "2026-06-21T14:15:50.000-07:00",
-      "updated": "2026-10-12T14:04:09.935-07:00",
+      "updated": "2026-10-13T00:07:57.853-07:00",
       "labels": [
         "argo-rollouts",
         "blue-green",
@@ -150,7 +150,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/1611531635578396942.md",
       "markdown_path": "articles/1611531635578396942.md",
-      "sha256": "ddc91b4aa427ed4809f8a58a1bcf4783a5a3130673e765165f07a632093afe03"
+      "sha256": "f5285de31d4dc2f2ddff64afa5ad78d61dc7fee0ecbfc8456592d91cefdc0b82"
     },
     {
       "id": "2568727342055675963",
@@ -198,7 +198,7 @@
       "title": "Operators vs Helm: What Platform Teams Should Use When",
       "url": "https://devopsdreams.blogspot.com/2026/03/operators-vs-helm-what-platform-teams_01661947393.html",
       "published": "2026-06-13T07:45:44.000-07:00",
-      "updated": "2026-10-12T09:12:52.550-07:00",
+      "updated": "2026-10-13T00:08:00.619-07:00",
       "labels": [
         "devops",
         "helm",
@@ -212,14 +212,14 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/4234754207766000726.md",
       "markdown_path": "articles/4234754207766000726.md",
-      "sha256": "ffa81c3e9614637bfefcdd6daa391d663a551bd41e73ec038d9972406c5769ac"
+      "sha256": "c40f0fb7984858a965e45f2f649388f2c8d5b53afdb8c078199a7e350efe4ada"
     },
     {
       "id": "6608235600524980024",
       "title": "Terraform CI/CD Pipelines with GitHub Actions: A Production-Grade Deep Dive",
       "url": "https://devopsdreams.blogspot.com/2026/03/terraform-cicd-pipelines-with-github_0324075875.html",
       "published": "2026-06-09T01:05:39.000-07:00",
-      "updated": "2026-10-12T08:52:31.026-07:00",
+      "updated": "2026-10-13T00:08:03.458-07:00",
       "labels": [
         "devops",
         "github-actions",
@@ -233,7 +233,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/6608235600524980024.md",
       "markdown_path": "articles/6608235600524980024.md",
-      "sha256": "28656caa48fceba01cfc7a787b21ad52fcef52d4f8535005421d2c04b2c06882"
+      "sha256": "d69d5415996c99d21373ff01ca8a174286ef691c3364c0fc97e476744e44f2be"
     },
     {
       "id": "8285001295994941078",
@@ -265,7 +265,7 @@
       "title": "Multi-Tenant GitOps with Argo CD: Isolation Patterns That Survive Production",
       "url": "https://devopsdreams.blogspot.com/2026/03/multi-tenant-gitops-with-argo-cd-best.html",
       "published": "2026-06-01T06:10:31.000-07:00",
-      "updated": "2026-10-12T14:04:12.130-07:00",
+      "updated": "2026-10-13T00:08:06.227-07:00",
       "labels": [
         "ArgoCD",
         "GitOps",
@@ -276,21 +276,21 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/8576435052228944335.md",
       "markdown_path": "articles/8576435052228944335.md",
-      "sha256": "5d82454cabeb25f5fd514e1c36a913ed037397afe2b415fc5f7a2e25b261c1ca"
+      "sha256": "969effe967e3350dae4c1ff3d4bb6298c5e1f07cb1e0a956d1b6d5adb5c3ee17"
     },
     {
       "id": "3953734878512147771",
       "title": "Argo CD and Argo Rollouts: Git Reconciliation, Field Ownership and Recovery",
       "url": "https://devopsdreams.blogspot.com/2026/03/progressive-delivery-on-kubernetes-with_0549401167.html",
       "published": "2026-05-15T09:16:22.000-07:00",
-      "updated": "2026-10-12T14:04:14.302-07:00",
+      "updated": "2026-10-13T00:08:08.709-07:00",
       "labels": [],
       "author": {
         "displayName": "Unknown"
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/3953734878512147771.md",
       "markdown_path": "articles/3953734878512147771.md",
-      "sha256": "02e938f2b1832707677f8a1fdc1686b4e059034ca0f6345c3ec1cf060ce672a1"
+      "sha256": "70eb6a0e3eee9401ebea5cd364d0ccdfd5b66107979a24aff33bc98e2c63c704"
     },
     {
       "id": "5605498763035020082",
@@ -311,14 +311,14 @@
       "title": "Building an Internal Developer Platform on EKS",
       "url": "https://devopsdreams.blogspot.com/2026/03/building-internal-developer-platform-on_01252328738.html",
       "published": "2026-04-05T13:18:00.000-07:00",
-      "updated": "2026-10-12T13:39:59.010-07:00",
+      "updated": "2026-10-13T00:08:11.336-07:00",
       "labels": [],
       "author": {
         "displayName": "Unknown"
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2249908711843913910.md",
       "markdown_path": "articles/2249908711843913910.md",
-      "sha256": "8a5a34ca199813e7ba86e00da305b00f319b9d21803b619caab67f9f115be1be"
+      "sha256": "a7001bc30c6c4d2266a5d3cf2403f32ab9628d5f9448ed7d2bf6a83191518b46"
     },
     {
       "id": "7596550084395737858",
@@ -372,7 +372,7 @@
       "title": "Gateway API vs Ingress: Why Modern Kubernetes Traffic Management Uses Attachment, Not Annotations",
       "url": "https://devopsdreams.blogspot.com/2026/03/kubernetes-gateway-api-vs-ingress_0191819753.html",
       "published": "2026-03-16T10:00:00.000-07:00",
-      "updated": "2026-10-12T14:04:16.171-07:00",
+      "updated": "2026-10-13T00:08:13.998-07:00",
       "labels": [
         "devops",
         "gateway-api",
@@ -386,14 +386,14 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/826535620348174322.md",
       "markdown_path": "articles/826535620348174322.md",
-      "sha256": "ee186232a3a215f9e85d2bf455e841b299381e82ebf9638c3bf976e6a57a64fd"
+      "sha256": "d102147e5c589b77816e690312cce56b393cb731bbe28305d6ff6637e9f3aaca"
     },
     {
       "id": "9215514641697070146",
       "title": "A Modern Terraform Reference Architecture for Amazon EKS",
       "url": "https://devopsdreams.blogspot.com/2026/03/a-modern-terraform-reference_0947887689.html",
       "published": "2026-03-16T10:00:00.000-07:00",
-      "updated": "2026-10-12T13:51:35.013-07:00",
+      "updated": "2026-10-13T00:08:16.496-07:00",
       "labels": [
         "aws",
         "devops",
@@ -407,14 +407,14 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/9215514641697070146.md",
       "markdown_path": "articles/9215514641697070146.md",
-      "sha256": "87a9705deb1a4619daedabc117404d10b9ad9d7baaab33181fce7ce8100a33cc"
+      "sha256": "4c498e8e800a49f1af6592d2d89151fd0bc27be1bed0f1d1f3dfd6e79db514a6"
     },
     {
       "id": "5195088956521477401",
       "title": "Terraform Security Best Practices for AWS: IAM Is Only One Layer",
       "url": "https://devopsdreams.blogspot.com/2026/03/terraform-security-best-practices-for_0309082699.html",
       "published": "2026-03-16T02:36:00.000-07:00",
-      "updated": "2026-10-12T08:52:38.739-07:00",
+      "updated": "2026-10-13T00:08:19.138-07:00",
       "labels": [
         "aws",
         "best-practices",
@@ -428,7 +428,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/5195088956521477401.md",
       "markdown_path": "articles/5195088956521477401.md",
-      "sha256": "4ca768c650ca2b2e93a5d64e45ac09ebbe7caec1f1bb3c9b1077dcade5ec1243"
+      "sha256": "58787a9684e8833364f290a85343c74b4518ae4ae1b7adb0f27434449671459e"
     },
     {
       "id": "2836711951267268511",
@@ -449,7 +449,7 @@
       "title": "Terraform GitOps Bridge Modules for EKS: A Cleaner Way to Bootstrap Clusters and Hand Off to Argo CD",
       "url": "https://devopsdreams.blogspot.com/2026/03/using-terraform-gitops-bridge-modules_0735566041.html",
       "published": "2026-03-14T15:46:00.000-07:00",
-      "updated": "2026-10-12T14:04:18.410-07:00",
+      "updated": "2026-10-13T00:08:21.574-07:00",
       "labels": [
         "gitops",
         "kubernetes",
@@ -460,14 +460,14 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2535562775798922906.md",
       "markdown_path": "articles/2535562775798922906.md",
-      "sha256": "8b0bc72075c706f05ac7099191191c0311efc5446addfce4f13670f47effd87e"
+      "sha256": "dc4d1f837f062ebcf7a8567025e842045e8c960f1b8df8d5734a4ea57fc6f50e"
     },
     {
       "id": "2519534304792877879",
       "title": "Autoscaling Amazon EKS with Karpenter: NodePools, EC2NodeClasses, and Practical Guardrails",
       "url": "https://devopsdreams.blogspot.com/2026/03/autoscaling-eks-clusters-with-karpenter_01691597786.html",
       "published": "2026-03-14T15:28:00.000-07:00",
-      "updated": "2026-10-12T14:04:20.239-07:00",
+      "updated": "2026-10-13T00:08:23.984-07:00",
       "labels": [
         "aws",
         "devops",
@@ -479,7 +479,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/2519534304792877879.md",
       "markdown_path": "articles/2519534304792877879.md",
-      "sha256": "38f8a5b4be871879b8742c66e7a4e9319ff43e782733e21224c9b2ba088d4464"
+      "sha256": "c089db4d4f4f0a82953d4abcdd0d6993119b0637e63d6eca15c45c7f3416177d"
     },
     {
       "id": "5258022992997799348",
@@ -543,7 +543,7 @@
       "title": "Terraform Drift Detection and Remediation: A Safer Operating Model for Real Infrastructure",
       "url": "https://devopsdreams.blogspot.com/2026/03/drift-detection-and-remediation_01775044451.html",
       "published": "2026-03-07T15:58:43.000-08:00",
-      "updated": "2026-10-12T08:52:45.989-07:00",
+      "updated": "2026-10-13T00:10:06.123-07:00",
       "labels": [
         "devops",
         "sre",
@@ -554,7 +554,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/7729124101636942266.md",
       "markdown_path": "articles/7729124101636942266.md",
-      "sha256": "f5d7f86ec353c4b5178d6536249faf6329051f97a34d2e6bd6ad92f42628f91a"
+      "sha256": "2de3086961f1ba96064d4e5ee184eb1f0a2a812fba41bc68aaf9384ca6689cef"
     },
     {
       "id": "8607790405071936733",
@@ -584,7 +584,7 @@
       "title": "Private Amazon EKS Clusters and Ingress Patterns: A Network Design Deep Dive",
       "url": "https://devopsdreams.blogspot.com/2026/03/private-amazon-eks-clusters-and-ingress_01205045572.html",
       "published": "2026-03-07T15:52:31.000-08:00",
-      "updated": "2026-10-12T13:56:39.103-07:00",
+      "updated": "2026-10-13T00:10:08.851-07:00",
       "labels": [
         "aws",
         "eks",
@@ -599,7 +599,7 @@
       },
       "markdown_url": "https://raw.githubusercontent.com/manomatt/devopsdreams-content/main/articles/7498168934854313233.md",
       "markdown_path": "articles/7498168934854313233.md",
-      "sha256": "f08b00f8c6b743d67c5dc6c1794ee3c8a1564cf0a8dcdde7eb1b7e2090838276"
+      "sha256": "d3d68c6ff77efbcc9982863fa36ea5f257e41805c50851ec1535c278fb9304df"
     }
   ]
 }
